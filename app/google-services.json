@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "515711914775",
+    "firebase_url": "https://myfirebase-40e92.firebaseio.com",
+    "project_id": "myfirebase-40e92",
+    "storage_bucket": "myfirebase-40e92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515711914775:android:01446ab7af0efe28",
+        "android_client_info": {
+          "package_name": "net.fitken.simplechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515711914775-vlmsf2piiqu9nbbbjp0f9fl91ppk4pgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkXMj6b7Krm7eEHyJsnIORkoRadqsdCh0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

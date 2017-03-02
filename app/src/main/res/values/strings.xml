@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Simple Chat</string>
+    <string name="enter_message">Enter message</string>
+    <string name="send">send</string>
 </resources>
